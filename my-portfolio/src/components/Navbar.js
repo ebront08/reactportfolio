@@ -33,4 +33,4 @@ export default function Navbar() {
     </header>
   );
 }
-export default function Navbar() {}
+

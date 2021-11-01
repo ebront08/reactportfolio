@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Employee Management System",
+    subtitle: "SQL",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "employeemanagement.gif",
+    link: "https://github.com/ebront08/employeemanagementsystem",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Fitness Tracker",
+    subtitle: "NoSQL",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "fitnesstracker.gif",
+    link: "https://fierce-bayou-40392.herokuapp.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "NoteTaker",
+    subtitle: "Express.js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "notetaker.gif",
+    link: "https://safe-basin-72124.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Full Stack Developer Resume",
+    subtitle: "Contact Me for further inquiries",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    image: "RESUME.gif",
+    link: "https://drive.google.com/file/d/1GBd-yeH-6Rdz76z2GH2-AXVQgP4OTWut/view?usp=sharing",
   },
 ];
 
@@ -53,8 +53,8 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "MongoDB",
   "Node",
   "GraphQL",
-  "Material UI",
+  "SQL",
 ];

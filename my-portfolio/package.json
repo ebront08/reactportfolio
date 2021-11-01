@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+  "homepage": "https://ebront08.github.io/reactportfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
@@ -13,7 +14,11 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -b master -d build",
+          "start": "react-scripts start",
+          "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [

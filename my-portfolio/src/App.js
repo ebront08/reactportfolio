@@ -20,7 +20,3 @@ export default function App() {
     </main>
   );
 }
-
-export default function App() {
-  return "App";
-}

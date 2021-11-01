@@ -33,5 +33,4 @@ export default function Skills() {
       </div>
     </section>
   );
-}
-export default function Skills() {}
+} 

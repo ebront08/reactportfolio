@@ -34,12 +34,11 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./homework/TristanEbronFullStackMay2021/reactportfolio/my-portfolio/public/profile-2.jpeg"
+            src="profile-2.jpeg"
           />
         </div>
       </div>
     </section>
   );
 }
-
-export default function About() {}
+ 
