@@ -1,35 +1,35 @@
 export const projects = [
   {
     title: "Employee Management System",
-    subtitle: "MERN Stack",
+    subtitle: "SQL",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "Picture1.jpg",
-    link: "https://reactbootcamp.com",
+    image: "./employeemanagement.gif",
+    link: "https://github.com/ebront08/employeemanagementsystem",
   },
   {
     title: "Fitness Tracker",
-    subtitle: "React and Python",
+    subtitle: "Nosql",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "fitnesstracker.gif"
-    link: "https://reactbootcamp.com",
+    image: "fitnesstracker.gif",
+    link: "https://github.com/ebront08/fitnesstracker",
   },
   {
     title: "Notetaker",
-    subtitle: "React and Firebase",
+    subtitle: "Express.js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "TristanEbronFullStackMay2021/reactportfolio/public/notetaker.gif",
-    link: "https://reactbootcamp.com",
+    image: "./notetaker.gif",
+    link: "https://github.com/ebront08/notetaker",
   },
   {
     title: "Resume",
-    subtitle: "React Hooks",
+    subtitle: "FullStack Resume",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "TristanEbronFullStackMay2021/reactportfolio/public/RESUME.gif",
-    link: "https://reactbootcamp.com",
+    image: "./RESUME.gif",
+    link: "https://drive.google.com/file/d/1GBd-yeH-6Rdz76z2GH2-AXVQgP4OTWut/view?usp=sharing",
   },
 ];
 
