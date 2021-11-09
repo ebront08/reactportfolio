@@ -56,5 +56,5 @@ export const skills = [
   "Node.js",
   "NoSQL",
   "GraphQL",
-  "Material UI",
+  "MERN",
 ];
